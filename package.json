@@ -1,0 +1,28 @@
+{
+  "name": "urcompany",
+  "version": "1.0.0",
+  "description": "*для Сашко",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexeyYalovitskiy/UrComp.git"
+  },
+  "author": "Alexey Yalovitskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexeyYalovitskiy/UrComp/issues"
+  },
+  "homepage": "https://github.com/AlexeyYalovitskiy/UrComp#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-rimraf": "^0.2.2",
+    "gulp-sass": "^4.0.1",
+    "gulp.spritesmith": "^6.9.0"
+  }
+}
